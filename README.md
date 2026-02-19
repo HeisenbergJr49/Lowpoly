@@ -17,7 +17,7 @@ Alle Teile werden zu einem einzigen, geschlossenen und wasserdichten Mesh kombin
 ## Installation
 
 ### Voraussetzungen
-- Python 3.7 oder höher
+- Python 3.8 oder höher
 - pip (Python Package Manager)
 
 ### Abhängigkeiten installieren
